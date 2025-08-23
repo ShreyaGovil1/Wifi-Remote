@@ -1,4 +1,4 @@
-Here’s a **clean README** for your project:
+A-Z Vibe Coded Project
 
 ---
 
