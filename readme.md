@@ -78,7 +78,7 @@ pip install websockets pyautogui
 * It will show:
 
   ```
-  ✅ WebSocket Server started at ws://<Laptop_IP>:8765
+  ✅ WebSocket Server started at ws://<Laptop_IP>:8888
   ```
 * Make sure the IP and port match what you set in the ESP32 code.
 
@@ -90,7 +90,7 @@ pip install websockets pyautogui
 * Open Serial Monitor → Check logs for:
 
   ```
-  ✅ Connected to WebSocket: ws://<Laptop_IP>:8765
+  ✅ Connected to WebSocket: ws://<Laptop_IP>:8888
   ```
 * Controls:
 
